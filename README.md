@@ -1,5 +1,8 @@
-### Choices for gangbang 👋
-
+🌱 I’m currently learning ${Codes}?
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flourineV&layout=compact&theme=radical&border_radius=10" alt="Top Languages">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=flourineV&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats">
+</div>
 <!--
 **flourineV/FlourineV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
