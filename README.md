@@ -7,7 +7,7 @@
 
 ## Personal Background:
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="550" align="right" alt="Computador iuriCode" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400" align="right" alt="Computador iuriCode" />
 
 <a href="https://github.com/flourineV"><img align="left" height="112" width="112" alt="LTV" src="https://github.com/flourineV/FlourineV/blob/main/images/ltv.png?raw=true" /></a>
 <a href="https://github.com/flourineV"><img align="left" height="112" width="112" alt="UIT" src="https://github.com/flourineV/FlourineV/blob/main/images/uit.png?raw=true" /></a>
