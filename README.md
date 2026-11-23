@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2835AF&size=35&center=true&vCenter=true&width=1000&lines=Flourine+Tran;I'm+a+Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B026FF&size=35&center=true&vCenter=true&width=1000&lines=Flourine+Tran;I'm+a+Lifelong+Learner)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=flourineV&theme=transparent&show_icons=true" alt="GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flourineV&layout=compact&theme=transparent" alt="Top Languages" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=flourineV&theme=transparent&show_icons=true&title_color=B026FF&icon_color=B026FF&text_color=E2E8F0&border_color=B026FF" alt="GitHub Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flourineV&layout=compact&theme=transparent&title_color=B026FF&text_color=E2E8F0&border_color=B026FF" alt="Top Languages" />
 </div>
 
 ## Personal Background:
